@@ -1,9 +1,9 @@
 {
-  "name": "pwaAngularApp",
-  "short_name": "pwaAngularAppShort",
+  "name": "pwaAngularApp1",
+  "short_name": "pwaAngularAppShort1",
   "theme_color": "#1976d2",
   "background_color": "#fafafa",
-  "display": "standalone",
+  "display": "fullscreen",
   "scope": "./",
   "start_url": "./",
   "icons": [
@@ -56,12 +56,11 @@
       "purpose": "maskable any"
     }
   ],
-  "description": "This is the description of pwa application",
-  "id": "pwa.angular.test.demo",
+  "description": "This is the description of pwa1 application",
+  "id": "pwa.angular.test.demo1",
   "dir": "auto",
   "lang": "en",
   "categories": [
     "education"
   ]
 }
-
