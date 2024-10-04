@@ -55,5 +55,13 @@
       "type": "image/png",
       "purpose": "maskable any"
     }
+  ],
+  "description": "This is the description of pwa application",
+  "id": "pwa.angular.test.demo",
+  "dir": "auto",
+  "lang": "en",
+  "categories": [
+    "education"
   ]
 }
+
